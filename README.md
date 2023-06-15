@@ -1,2 +1,2 @@
-# Virome_Multiple_blood_transfusion
-Fasta sequences used to build phylogenetic trees of anellovirus and pegivirus
+The file named "assembled_anellovirus_contigs_and_references.fasta" contains translated ORF1 sequences of anelloviruses. This dataset was used to build a phylogenetic tree, including 54 ORF1 sequences predicted from a viral metagenomic dataset and 59 ORF1 sequences downloaded from Genbank. 
+The file named " study_reference_pegivirus_protein.fasta" contains translated NS5B sequences of pegivirus. This dataset was used to build a phylogenetic tree, including 7 NS5B sequences predicted from a viral metagenomic dataset and 28 NS5B sequences downloaded from Genbank. 
